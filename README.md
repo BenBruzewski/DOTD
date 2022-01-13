@@ -7,7 +7,7 @@
 
 - You need a program to run .py files. Personally, I would recommend IDLE for this project as it's what I have used in testing. 
 - You will also need to ensure you have all the supporting assets for the game. Please download the "images" folder alongside your .py file and ensure they're in the same folder. 
-- Please keep in mind if you "win" the game that a .txt file will be generated as a scoreboard. This will appear in the same directory as your .py file. 
+- Please keep in mind that if you "win" the game a .txt file will be generated as a scoreboard. This will appear in the same directory as your .py file. 
 
 
 # Game Explanation: 
